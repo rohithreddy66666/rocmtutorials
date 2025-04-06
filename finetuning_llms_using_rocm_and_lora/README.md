@@ -182,9 +182,6 @@ If you encounter issues with BitsAndBytes installation, verify:
 - The bnb_rocm_arch parameter matches your GPU (gfx90a for MI250X)
 - You have the necessary C++ build tools installed
 
-## 📜 License
-
-[Add your chosen license here]
 
 ## 🙏 Acknowledgements
 
@@ -194,7 +191,7 @@ If you encounter issues with BitsAndBytes installation, verify:
 
 ## 👤 Author
 
-[Your Name]
+Rohith Reddy Vangala
 
 ---
 

@@ -19,6 +19,16 @@ A comprehensive tutorial comparing CPU and GPU performance for common deep learn
 
 Ideal for: Anyone new to ROCm who wants to understand the performance benefits of AMD GPUs for deep learning.
 
+### 2. [Finetuning LLMs using ROCm and LoRA](./finetuning_llms_using_rocm_and_lora/)
+
+A tutorial on how to efficiently finetune large language models using AMD GPUs with ROCm and LoRA:
+* Setting up the ROCm environment for LLM finetuning
+* Implementing Parameter-Efficient Fine-Tuning (PEFT) with LoRA
+* Memory optimization techniques for large models
+* Performance benchmarks on AMD hardware
+
+Ideal for: ML practitioners looking to customize foundation models on AMD hardware with limited resources.
+
 ## Upcoming Tutorials
 
 Stay tuned for more tutorials covering:
